@@ -4,6 +4,6 @@
 
 **ToDo List**:
 - [x] .vimrc
-- [ ] .tmux.conf
+- [x] .tmux.conf
 - [ ] vscode settings.json
 - [ ] neovim lua 配置文件
