@@ -1,0 +1,18 @@
+{
+  "vimMode": true,
+  "showLineNumber": true,
+  "useTab": false,
+  "alwaysUpdateLinks": true,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "spellcheck": false,
+  "showInlineTitle": true,
+  "rightToLeft": false,
+  "defaultViewMode": "preview",
+  "attachmentFolderPath": "images"
+}

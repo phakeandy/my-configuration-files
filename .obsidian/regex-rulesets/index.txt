@@ -1,0 +1,2 @@
+delete null line
+delete null line 2
