@@ -12,9 +12,9 @@ set si "Smart indent
 set ignorecase
 set mouse=a
 set cursorline " highlight the line where the cursor is located
-set nu
+set nu " display the line number
 set termguicolors " real color
-syntax on 
+syntax on " 语法高亮
 set smartcase
 
 " === KEY MAP === "
