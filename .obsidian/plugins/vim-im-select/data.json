@@ -1,8 +1,0 @@
-{
-  "defaultIM": "",
-  "obtainCmd": "",
-  "switchCmd": "",
-  "windowsDefaultIM": "1033",
-  "windowsObtainCmd": "D:\\xunleiDownload\\im-select-master\\win\\out\\x64\\im-select.exe",
-  "windowsSwitchCmd": "D:\\xunleiDownload\\im-select-master\\win\\out\\x64\\im-select.exe {im}"
-}
