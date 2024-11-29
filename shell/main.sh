@@ -23,11 +23,11 @@ export LESS_TERMCAP_us=$'\e[1;4;31m'
 # ==================================
 
 if [[ "$SHELL" == *"/zsh"* ]]; then
-    [ -f "$HOME/.local/config/shell/zshrc.zsh" ] && . "$HOME/.local/config/shell/zshrc.zsh"
+    # [ -f "$HOME/.local/config/shell/zshrc.zsh" ] && . "$HOME/.local/config/shell/zshrc.zsh"
     return
 fi 
 
-[ -f "$HOME/.local/config/shell/theme/fishlike_prompt.sh" ] && . "$HOME/.local/config/shell/theme/fishlike_prompt.sh"
+# [ -f "$HOME/.local/config/shell/theme/fishlike_prompt.sh" ] && . "$HOME/.local/config/shell/theme/fishlike_prompt.sh"
 
 
 function ccat() {
